@@ -1,0 +1,9 @@
+#container {
+  height: 620px;
+  width: 100%;
+  text-align: center;
+}
+
+#main {
+  height: 55%;
+}
